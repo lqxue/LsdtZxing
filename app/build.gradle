@@ -39,5 +39,6 @@ dependencies {
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     implementation androidDepend.appcompat
-    implementation project(path: ':LibZxing')
+//    implementation project(path: ':LibZxing')
+    implementation 'com.github.lqxue:LsdtZxing:1.0.0'
 }
