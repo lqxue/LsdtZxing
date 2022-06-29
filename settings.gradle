@@ -1,0 +1,3 @@
+include ':LibZxing'
+include ':app'
+rootProject.name = "LsdtZxing"
